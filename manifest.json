@@ -2,11 +2,16 @@
   "manifest_version": 2,
   "name": "Santali (Ol Chiki) Spell Checker",
   "author": "Prasanta Hembram",
-  "homepage_url": "https://github.com/Prasanta-Hembram/Santali-(Ol-Chiki)-Spell-Checker",
+  "homepage_url": "https://github.com/Prasanta-Hembram/Santali-Ol-Chiki-Spell-Checker",
   "description":
   "A spell checker for Santali (Ol Chiki) language.",
-
-"version": "0.0.9",
+  "browser_specific_settings": {
+  "gecko": {
+  "id": "sat@dictionaries.addons.mozilla.org",
+  "strict_min_version": "42.0"
+            }
+     },
+"version": "0.1.0",
 
 "dictionaries": {
 "sat-IN": "dictionaries/sat.dic"
