@@ -8,10 +8,10 @@
   "browser_specific_settings": {
   "gecko": {
   "id": "sat@dictionaries.addons.mozilla.org",
-  "strict_min_version": "42.0"
+  "strict_min_version": "58.0"
             }
      },
-"version": "0.1.0",
+"version": "0.1.1",
 
 "dictionaries": {
 "sat-IN": "dictionaries/sat.dic"
